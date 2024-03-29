@@ -71,6 +71,10 @@ main {
     font-weight: bold;
 }
 
+#order-items {
+    font-weight: 500;
+}
+
 footer {
     text-align: center;
     padding: 1rem 0;
